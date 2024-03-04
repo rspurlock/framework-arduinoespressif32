@@ -1,5 +1,5 @@
 name=ESP32 Arduino
-version=2.0.14
+version=4.4.1
 
 tools.xtensa-esp32-elf-gcc.path={runtime.tools.xtensa-esp32-elf-gcc.path}
 tools.xtensa-esp32s2-elf-gcc.path={runtime.tools.xtensa-esp32s2-elf-gcc.path}
