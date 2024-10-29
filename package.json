@@ -11,6 +11,6 @@
   "license": "LGPL-2.1-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rspurlock/framework-arduinoespressif32@4.4"
+    "url": "https://github.com/rspurlock/framework-arduinoespressif32"
   }
 }
